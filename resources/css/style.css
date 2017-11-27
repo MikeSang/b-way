@@ -1,7 +1,6 @@
 * {
   font-family: Helvetica;
   text-align: center;
-  color: red;
 }
 
 #nav {
@@ -12,7 +11,7 @@
 #nav, #newyork {
 
   font-weight: bold;
-  color: red;
+  color: white;
   background-image: url(../images/the-flatiron-building.png);
   display: block;
 }
@@ -42,12 +41,11 @@ a:link {
 }
 
 a, #footer {
-  color: red;
+  color: white;
 }
 
 h1 {
   padding-bottom: 0px;
-  color: red;
 }
 
 h2 {
