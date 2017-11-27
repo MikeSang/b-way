@@ -5,6 +5,7 @@
 
 #nav {
   font-size: 70px;
+  padding: 10px;
 }
 
 #nav, #newyork {
@@ -44,8 +45,7 @@ a, #footer {
 }
 
 h1 {
-  padding-bottom: 12px;
-}
+  padding-bottom: 0px;
 }
 
 h2 {
