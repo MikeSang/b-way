@@ -11,7 +11,7 @@
 #nav, #newyork {
 
   font-weight: bold;
-  color: White;
+  color: red;
   background-image: url(../images/the-flatiron-building.png);
   display: block;
 }
